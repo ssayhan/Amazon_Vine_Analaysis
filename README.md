@@ -1,4 +1,4 @@
-# Amazon_Vine_AnalaysisAmazon Vine Analysis
+# Amazon_Vine_Analaysis
 
 ## Backround
 
